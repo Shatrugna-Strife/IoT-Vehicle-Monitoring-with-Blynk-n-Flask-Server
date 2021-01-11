@@ -1,0 +1,2 @@
+blynk-ser.bat -c COM1 -p 8442
+https://dashing.run-ap-south1.goorm.io/
